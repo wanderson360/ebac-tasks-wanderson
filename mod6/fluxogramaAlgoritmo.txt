@@ -1,0 +1,14 @@
+INÍCIO
+1. 	O despertador toca;
+2. 	Abrir os olhos;
+3. 	Se estiver com sono ainda:
+    1. 	Apertar botão de soneca;
+    2. 	Dormir mais 5 minutos;
+    3. 	Voltar ao primeiro passo do programa;
+4. 	Se não estiver com sono:
+    1. 	Espreguiçar-se;
+    2. 	Sentar na cama;
+    3. 	Colocar os pés no chão;
+    4. 	Levantar-se;
+5. 	Caminhar até o banheiro;
+FIM
