@@ -9,16 +9,16 @@ public class averageCalculationTask {
         grades[2] = 8;
         grades[3] = 10;
 
-        double media = calculateAverage(grades);
-        System.out.println("Média total: " + media);
+        double average = calculateAverage(grades);
+        System.out.println("Média total: " + average);
     }
 
     private static double calculateAverage(int[] grades) {
-        int soma = 0;
-        for (int nota : grades) {
-            soma += nota;
+        int sumOfGrades = 0;
+        for (int grade : grades) {
+            sumOfGrades += grade;
         }
-        return (double) soma / grades.length;
+        return (double) sumOfGrades / grades.length;
     }
 }
 
